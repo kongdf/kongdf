@@ -4,7 +4,7 @@
 
 - :orange_book: 热爱互联网的一切;
 - :video_game: 塞尔达YYDS.
-- :musical_note: 重度耳机爱好者.
+- :musical_note: 二手:rose:.
 - :sob: 已被隔离一个月.
 <!-- - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN

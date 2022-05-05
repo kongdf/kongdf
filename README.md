@@ -3,6 +3,7 @@
 ### 嘿,老铁 👋
 
 - :orange_book: 热爱互联网的一切;
+- :hammer: JS/Python.
 - :video_game: 塞尔达YYDS.
 - :musical_note: 二手:rose:.
 - :sob: 已被隔离一个月.

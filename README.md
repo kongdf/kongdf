@@ -2,7 +2,7 @@
 
 ### 嘿,老铁 👋
 
-- :orange_book: 热爱前端/热爱互联网的一切;
+- :orange_book: 热爱互联网的一切;
 <!-- - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover -->

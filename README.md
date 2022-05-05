@@ -10,5 +10,5 @@
  
 <details>
 <summary>待补充</summary>
-<p>~~~~~.</p>
+<p>塞尔达YYDS.</p>
 </details>

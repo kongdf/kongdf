@@ -11,8 +11,8 @@
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover -->
 
- 
+ <font size=4>:sob: 已被隔离一个月.</font>
 <!-- <details> -->
 <!-- <summary>待补充</summary> -->
-<p- :sob: 已被隔离一个月.p>
+<!-- <p > :sob: 已被隔离一个月.<p> -->
 <!-- </details> -->

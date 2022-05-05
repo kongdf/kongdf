@@ -6,13 +6,13 @@
 - :hammer: JS/Python.
 - :video_game: 塞尔达YYDS.
 - :musical_note: 二手:rose:.
-- :sob: 已被隔离一个月.
+
 <!-- - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover -->
 
  
 <details>
-<summary>待补充</summary>
-<p>~~~~.</p>
+<!-- <summary>待补充</summary> -->
+<p- :sob: 已被隔离一个月.p>
 </details>

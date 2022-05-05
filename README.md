@@ -12,7 +12,7 @@
 - :meat_on_bone: Meat lover -->
  <font size=7>:sob: 已被隔离一个月.</font>
  
- <font size=7>:sob: 微信公众号:我做个艺术家</font>
+ <font size=7>微信公众号:我做个艺术家</font>
 <!-- <details> -->
 <!-- <summary>待补充</summary> -->
 <!-- <p > :sob: 已被隔离一个月.<p> -->

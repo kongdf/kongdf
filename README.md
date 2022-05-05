@@ -3,7 +3,7 @@
 ### 嘿,老铁 👋
 
 - :orange_book: 热爱互联网的一切;
-- :orange_book: 塞尔达YYDS.
+- :game: 塞尔达YYDS.
 <!-- - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover -->

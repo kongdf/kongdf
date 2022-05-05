@@ -11,8 +11,10 @@
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover -->
  <font size=7>:sob: 已被隔离一个月.</font>
- 
- <font size=7>微信公众号:我做个艺术家</font>
+  
+
+- 博客:http://kongdf.com/;
+- 微信公众号:我做个艺术家;
 <!-- <details> -->
 <!-- <summary>待补充</summary> -->
 <!-- <p > :sob: 已被隔离一个月.<p> -->

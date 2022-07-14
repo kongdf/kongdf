@@ -4,7 +4,7 @@
 
 - :orange_book: 热爱互联网的一切;
 - :hammer: JS/Python.
-- :video_game: 塞尔达YYDS.
+- :video_game: 塞尔达&&哈迪斯YYDS.
 - :musical_note: 二手:rose:.
 
 <!-- - :hammer: Creator of applications and frameworks

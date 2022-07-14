@@ -10,10 +10,10 @@
 <!-- - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover -->
-- 博客:http://kongdf.com/;
+- 博客:http://blog.kongdf.com/;
 - 微信公众号:我做个艺术家;
 
-<font size=7>:sob: 已被隔离一个月.</font>
+<!-- <font size=7>:sob: 已被隔离一个月.</font> -->
 <!-- <details> -->
 <!-- <summary>待补充</summary> -->
 <!-- <p > :sob: 已被隔离一个月.<p> -->

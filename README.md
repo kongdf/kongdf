@@ -18,3 +18,4 @@
 <!-- <summary>待补充</summary> -->
 <!-- <p > :sob: 已被隔离一个月.<p> -->
 <!-- </details> -->
+<img src="https://i.imgur.com/kdKhgx6.gif" width="240px" align="center">

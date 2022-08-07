@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kongdf&theme=github_dark&show_icons=true">
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kongdf&theme=github_dark&show_icons=true"> -->
 
 ### 嘿,老铁 👋
 

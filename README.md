@@ -4,7 +4,7 @@
 
 - :orange_book: 热爱互联网的一切;
 - :hammer: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white).
-- :hammer:Rust在学.
+- :book:Rust在学.
 - :video_game: 塞尔达&&哈迪斯YYDS.
 - :musical_note: 二手:rose:.
 

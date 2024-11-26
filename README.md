@@ -1,6 +1,5 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=kongdf&theme=github_dark&show_icons=true">
 
-### 嘿,老铁 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - :orange_book: 热爱互联网的一切;
 - :hammer:  JS/Rust. 
@@ -14,4 +13,3 @@
 - 工具箱:https://box.kongdf.com/;
 - 微信公众号:我做个艺术家;
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongdf&layout=compact&theme=tokyonight)

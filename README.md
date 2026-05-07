@@ -31,4 +31,4 @@
   <a href="https://music.163.com/playlist?id=780924592&amp;uct2=U2FsdGVkX1+xZc4rX5qCy4MlraGRYq1Brjybxff3ZdY=">网易云歌单</a>
 </p>
 
-<p align="center"><sub>公众号 / 小程序：<strong>我做个艺术家</strong>（微信内搜索即可）</sub></p>
+<p align="center">公众号 / 小程序：<strong>我做个艺术家</strong>（微信内搜索即可） </p>

@@ -1,15 +1,10 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" alt="" />
 <h2 align="center">Hey! Nice to see you.</h2>
 
-<strong>孔大夫</strong> &nbsp;·&nbsp; <a href="https://github.com/kongdf">@kongdf</a>
- 
+95天秤男，网上常用 **孔大夫** 这个 ID。 喜欢🚗 自驾 · ⛰️ 爬山 · 📷 摄影。
 
-代码与文字都写一点；也会做逆向与安全方向的学习与拆解。长文与笔记发布在[博客](https://blog.kongdf.com/)。
-
- 
-
-🚗 自驾 · ⛰️ 爬山 · 📷 摄影
-
+代码与文字都写一点；也会做逆向与安全方向的学习与拆解。git上放一些开源和小实验，博客多是笔记与复盘，能顺带帮到人更好。
+  
  
 
 <p align="left">

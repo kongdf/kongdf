@@ -9,5 +9,3 @@
 **链接** 📝 [博客](https://blog.kongdf.com/) · 🧰 [工具箱](https://box.kongdf.com/) · 🎮 [游戏墙](https://blog.kongdf.com/game/) · 🎵 [网易云歌单](https://music.163.com/playlist?id=780924592&uct2=U2FsdGVkX1+xZc4rX5qCy4MlraGRYq1Brjybxff3ZdY=)
 
 **公众号 / 小程序** 「我做个艺术家」
-
-<div align="center"><blockquote>万物本闲，唯有心闹。</blockquote></div>

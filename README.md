@@ -2,12 +2,8 @@
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" alt="" /> Hey! Nice to see you.</h2>
  
 
-代码与文字都写一点；以 **JavaScript** 与 **Rust** 为主，也会做逆向与安全方向的学习与拆解。长文与笔记发布在[博客](https://blog.kongdf.com/)。
+写代码、折腾设备、喜欢 🚗 自驾 · ⛰️ 爬山 · 📷 摄影；
  
-
-🚗 自驾 · ⛰️ 爬山 · 📷 摄影
- 
-
 | 站点 | 链接 |
 | --- | --- |
 | 📝 博客 | [blog.kongdf.com](https://blog.kongdf.com/) |

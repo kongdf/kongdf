@@ -21,11 +21,14 @@
 
 ### 链接
 
-<p align="left">
-  <a href="https://blog.kongdf.com/"><img src="https://img.shields.io/badge/博客-FF6B6B?style=flat-square&logo=readthedocs&logoColor=white" alt="博客" /></a>
-  <a href="https://box.kongdf.com/"><img src="https://img.shields.io/badge/工具箱-4ECDC4?style=flat-square" alt="工具箱" /></a>
-  <a href="https://blog.kongdf.com/game/"><img src="https://img.shields.io/badge/游戏墙-95E1D3?style=flat-square&logo=steam&logoColor=white" alt="游戏墙" /></a>
-  <a href="https://music.163.com/playlist?id=780924592&amp;uct2=U2FsdGVkX1+xZc4rX5qCy4MlraGRYq1Brjybxff3ZdY="><img src="https://img.shields.io/badge/网易云歌单-E60026?style=flat-square&logo=neteasecloudmusic&logoColor=white" alt="网易云歌单" /></a>
+<p align="center">
+  <a href="https://blog.kongdf.com/">博客</a>
+  &nbsp;&nbsp;<span aria-hidden="true">·</span>&nbsp;&nbsp;
+  <a href="https://box.kongdf.com/">工具箱</a>
+  &nbsp;&nbsp;<span aria-hidden="true">·</span>&nbsp;&nbsp;
+  <a href="https://blog.kongdf.com/game/">游戏墙</a>
+  &nbsp;&nbsp;<span aria-hidden="true">·</span>&nbsp;&nbsp;
+  <a href="https://music.163.com/playlist?id=780924592&amp;uct2=U2FsdGVkX1+xZc4rX5qCy4MlraGRYq1Brjybxff3ZdY=">网易云歌单</a>
 </p>
 
-<sub>公众号 / 小程序：<strong>我做个艺术家</strong>（微信内搜索名称即可）</sub>
+<p align="center"><sub>公众号 / 小程序：<strong>我做个艺术家</strong>（微信内搜索即可）</sub></p>

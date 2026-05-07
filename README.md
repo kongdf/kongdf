@@ -1,5 +1,5 @@
-<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" alt="" />
-<h2 align="center">Hey! Nice to see you.</h2>
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40" alt="" />Hey! Nice to see you.</h2>
 
  95 天秤男 · 常用 ID：**孔大夫**
 - 🚗 自驾 · ⛰️ 爬山 · 📷 摄影 · 🎮 游戏 
